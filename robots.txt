@@ -1,1 +1,1 @@
-Sitemap: /SalvatoLab-website/sitemap.xml
+Sitemap: /sitemap.xml
